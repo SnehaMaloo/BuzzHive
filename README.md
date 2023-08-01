@@ -4,13 +4,14 @@ BuzzHive is a online community platform which provides a dynamic and engaging en
 ## Attached Screenshots
 
 ### Login Page
-![Login](https://github.com/SnehaMaloo/Let-s-Chat/assets/107611558/244ab4fe-d166-452a-af88-4005f5d12198)
+![Login](https://github.com/SnehaMaloo/BuzzHive/blob/main/Login.jpg)
 ### SignUP Page
-![SignUp](https://github.com/SnehaMaloo/Let-s-Chat/assets/107611558/add2dbe5-a2c6-4cc6-8c47-e72779606df9)
-### Creating Group Chat
-![CreateGroupChat](https://github.com/SnehaMaloo/Let-s-Chat/assets/107611558/1c432d12-e962-49a2-9fd0-f3c01217e042)
-### Updating Group Chat 
-![UpdatingGroupChat](https://github.com/SnehaMaloo/Let-s-Chat/assets/107611558/9131bca4-7abe-4a81-958f-622ae64c4617)
-### Search User
-![SearchUserFunctionality](https://github.com/SnehaMaloo/Let-s-Chat/assets/107611558/38deb81f-b432-4f5f-bdb8-bfee3381d198)
+![SignUp](https://github.com/SnehaMaloo/BuzzHive/blob/main/SignUP.jpg)
+### Creating a post
+![Creating post](https://github.com/SnehaMaloo/BuzzHive/blob/main/Create%20Post.jpg)
+### Creating a community 
+![Creating Community](https://github.com/SnehaMaloo/BuzzHive/blob/main/creating_new_community.jpg)
+### Adding comments
+![Adding Comments](https://github.com/SnehaMaloo/BuzzHive/blob/main/comments.jpg)
+
 
